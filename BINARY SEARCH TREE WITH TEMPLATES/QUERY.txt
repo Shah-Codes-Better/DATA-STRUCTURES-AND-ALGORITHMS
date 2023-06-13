@@ -1,0 +1,3 @@
+Build a reservation system (for a restaurant or a hotel) where each reservation is stored in a BST based on
+the reservation date and time. The application should be able to add a reservation, cancel a reservation, and
+search for a reservation.
